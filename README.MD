@@ -1,0 +1,19 @@
+curl 'https://api.divar.ir/v8/postlist/w/search' \
+-X 'POST' \
+-H 'Content-Type: application/json' \
+-H 'Accept: application/json, text/plain, */*' \
+-H 'Authorization: Basic eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWQiOiIxY2RhNzczNi02MmM2LTQwZDEtYWYwOC04YzIyYjIwNWUyYjkiLCJ1c2VyLXR5cGUiOiJwZXJzb25hbCIsInVzZXItdHlwZS1mYSI6Ilx1MDY3ZVx1MDY0Nlx1MDY0NCBcdTA2MzRcdTA2MmVcdTA2MzVcdTA2Y2MiLCJ1aWQiOiJkMGNiNjQzNy05YzZjLTQwYTQtOTY5ZC0wZDIzYzliNzEzYTQiLCJ1c2VyIjoiMDkwMDE3MDIxMTEiLCJpc3MiOiJhdXRoIiwidmVyaWZpZWRfdGltZSI6MTczMDE5MTM0OCwiaWF0IjoxNzMwMTkxMzQ4LCJleHAiOjE3Mzc5NjczNDh9.iajzl2MPSEBwANsnTqXkRsd4IpqRjNT6qmcFLIpweII' \
+-H 'Sec-Fetch-Site: same-site' \
+-H 'Accept-Language: en-US,en;q=0.9' \
+-H 'Accept-Encoding: gzip, deflate, br' \
+-H 'Sec-Fetch-Mode: cors' \
+-H 'Origin: https://divar.ir' \
+-H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15' \
+-H 'Referer: https://divar.ir/' \
+-H 'Content-Length: 726' \
+-H 'Sec-Fetch-Dest: empty' \
+-H 'Cookie: _ga=GA1.2.2053050748.1730191318; _ga_SXEW31VJGJ=GS1.1.1731002801.8.1.1731004493.50.0.0; _gid=GA1.2.874042773.1731002800; csid=09933ce2163607b833; rwv_init_params=; theme=dark; _gcl_au=1.1.959124762.1730191327; city=tehran; ff=%7B%22f%22%3A%7B%22custom_404_experiment%22%3Atrue%2C%22chat_translate_enabled%22%3Atrue%2C%22post-card-title-top%22%3Atrue%2C%22new_price_field_enabled%22%3Atrue%2C%22new_district_filter_enabled%22%3Atrue%2C%22new_brand_filter_enabled%22%3Atrue%7D%2C%22e%22%3A1731008083890%7D; multi-city=tehran%7C; player_id=0660af8b-1f56-41dd-acd2-961ca5049b4c; _ga_WC29FSMWTF=GS1.1.1730656418.2.0.1730656418.60.0.0; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWQiOiIxY2RhNzczNi02MmM2LTQwZDEtYWYwOC04YzIyYjIwNWUyYjkiLCJ1c2VyLXR5cGUiOiJwZXJzb25hbCIsInVzZXItdHlwZS1mYSI6Ilx1MDY3ZVx1MDY0Nlx1MDY0NCBcdTA2MzRcdTA2MmVcdTA2MzVcdTA2Y2MiLCJ1aWQiOiJkMGNiNjQzNy05YzZjLTQwYTQtOTY5ZC0wZDIzYzliNzEzYTQiLCJ1c2VyIjoiMDkwMDE3MDIxMTEiLCJpc3MiOiJhdXRoIiwidmVyaWZpZWRfdGltZSI6MTczMDE5MTM0OCwiaWF0IjoxNzMwMTkxMzQ4LCJleHAiOjE3Mzc5NjczNDh9.iajzl2MPSEBwANsnTqXkRsd4IpqRjNT6qmcFLIpweII; LANGUAGE=fa; cdid=75ed52e6-9118-40a7-b771-d00bf836e858; did=5a7a5126-599a-4413-9e96-c5259cd073a7' \
+-H 'X-Standard-Divar-Error: true' \
+-H 'X-Render-Type: CSR' \
+-H 'Priority: u=3, i' \
+--data-binary '{"city_ids":["1"],"pagination_data":{"@type":"type.googleapis.com/post_list.PaginationData","last_post_date":"2024-11-07T14:54:38.578051Z","page":6,"layer_page":6,"search_uid":"73e3885e-4339-4c31-92af-08b071d3d5d7"},"search_data":{"form_data":{"data":{"category":{"str":{"value":"apartment-rent"}},"districts":{"repeated_string":{"value":["925","173","167","143","85","930","920","82","61","86","148","145","146","306","931","929","1031","56","157","158","75","147","151","152","155","159","78","49","921","172","64","65","168","923","170","139","74","55","315","90"]}}}},"server_payload":{"@type":"type.googleapis.com/widgets.SearchData.ServerPayload","additional_form_data":{"data":{"sort":{"str":{"value":"sort_date"}}}}}}}'

@@ -1,0 +1,2901 @@
+[
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "420 متر /ابرسازه مدرن/ مشاعات فاخر",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZo09xl2",
+                    "web_info": {
+                        "title": "420 متر /ابرسازه مدرن/ مشاعات فاخر",
+                        "district_persian": "سعادت‌آباد",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/neda/thumbnail/6k33y2j6eWbhcCwcit4ZGA/e90b37eb-8668-475f-b141-4fc567d9d928.jpg",
+            "bottom_description_text": "مشاور خراسانی در سعادت‌آباد",
+            "red_text": "پله شده",
+            "middle_description_text": "اجاره: ۱۱,۱۱۱,۱۱۱ تومان",
+            "has_divider": true,
+            "image_count": 11,
+            "top_description_text": "ودیعه: ۱۱,۱۱۱,۱۱۱ تومان",
+            "image_top_left_tag": {
+                "text": "پله",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/stairs.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/stairs.png",
+                    "icon_name": "STAIRS",
+                    "icon_color": "WHITE_PRIMARY"
+                }
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZo09xl2",
+                    "index": 0,
+                    "post_type": "PELLE",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-04T14:51:57.937572Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "همخونه میخام",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZtMgW2s",
+                    "web_info": {
+                        "title": "همخونه میخام",
+                        "district_persian": "اباذر",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۱ ساعت پیش در اباذر",
+            "middle_description_text": "اجاره: ۱,۵۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۵۰,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZtMgW2s",
+                    "index": 0,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T18:14:29.425570Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "همخونه میشم،خونه ندارم",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZSsbcKc",
+                    "web_info": {
+                        "title": "همخونه میشم،خونه ندارم",
+                        "district_persian": "اکباتان",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "در اکباتان",
+            "red_text": "نردبان شده | فوری ",
+            "middle_description_text": "اجاره: ۱۰,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۱۰,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZSsbcKc",
+                    "index": 1,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T17:49:07.386561Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "همخانه، همخونه",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZSwYygl",
+                    "web_info": {
+                        "title": "همخانه، همخونه",
+                        "district_persian": "کوی فردوس",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/afra/thumbnail/pzys-O3T_c3qw_J_81RhqA/a397c3c5-cf83-4292-8810-471cf46cfce3.jpg",
+            "bottom_description_text": "در کوی فردوس",
+            "red_text": "نردبان شده",
+            "middle_description_text": "اجاره: ۱,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "image_count": 1,
+            "top_description_text": "ودیعه: ۵,۰۰۰,۰۰۰ تومان",
+            "image_top_left_tag": {
+                "text": "۱",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+                    "icon_name": "CAMERA",
+                    "icon_color": "WHITE_PRIMARY"
+                },
+                "is_icon_left": true
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZSwYygl",
+                    "index": 2,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T17:40:15.941098Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "۱۴۰م۳خ فول  فول پونک کمالی شرقی تاپ لوکیشن",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZsk-s7D",
+                    "web_info": {
+                        "title": "۱۴۰م۳خ فول  فول پونک کمالی شرقی تاپ لوکیشن",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/afra/thumbnail/OUjP1FacQF5_M_9QH6Pt9A/928e4359-a598-4f7c-a276-4beb0fb8290d.jpg",
+            "bottom_description_text": "آژانس چمران در پونک",
+            "middle_description_text": "رهن کامل",
+            "has_divider": true,
+            "image_count": 11,
+            "top_description_text": "ودیعه: ۱,۹۰۰,۰۰۰ تومان",
+            "image_top_left_tag": {
+                "text": "۱۱",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+                    "icon_name": "CAMERA",
+                    "icon_color": "WHITE_PRIMARY"
+                },
+                "is_icon_left": true
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZsk-s7D",
+                    "index": 3,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T16:29:24.537415Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "خونه دارم/همخونه میخوام",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZsc9AxB",
+                    "web_info": {
+                        "title": "خونه دارم/همخونه میخوام",
+                        "district_persian": "قیطریه",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۴ ساعت پیش در قیطریه",
+            "middle_description_text": "اجاره: ۱,۱۱۱,۱۱۱ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: رایگان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZsc9AxB",
+                    "index": 4,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T15:08:57.133074Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "همخونه",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZOIV7D7",
+                    "web_info": {
+                        "title": "همخونه",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "در پونک",
+            "red_text": "نردبان شده",
+            "middle_description_text": "اجاره: ۵,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۱۰,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZOIV7D7",
+                    "index": 5,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T15:04:29.660702Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "برج با شکوه ۱۹۰و۲۲۰ متر، فول مشاعات، ۳و۴ خواب",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZsYqqfe",
+                    "web_info": {
+                        "title": "برج با شکوه ۱۹۰و۲۲۰ متر، فول مشاعات، ۳و۴ خواب",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/neda/thumbnail/9xqkMfFR-BWEOckfRoUXaQ/db2a53de-f847-4186-a0ac-d2752ceab3d1.jpg",
+            "bottom_description_text": "کارشناس امور ملکی خالقی ۰۹۱۲۷۲۷۸۰۶۰ در پونک",
+            "middle_description_text": "اجاره: ۱۱,۱۱۱,۱۱۱ تومان",
+            "has_divider": true,
+            "image_count": 7,
+            "top_description_text": "ودیعه: رایگان",
+            "image_top_left_tag": {
+                "text": "۷",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+                    "icon_name": "CAMERA",
+                    "icon_color": "WHITE_PRIMARY"
+                },
+                "is_icon_left": true
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZsYqqfe",
+                    "index": 6,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T14:58:29.739086Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "آپارتمان 80متری واقع در سعادت‌آباد فرهنگ",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZsc8eHu",
+                    "web_info": {
+                        "title": "آپارتمان 80متری واقع در سعادت‌آباد فرهنگ",
+                        "district_persian": "دریا",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/neda/thumbnail/pwhS6G2LroXb5IPcvFHhYA/69b28a8c-baf9-4816-975f-44b517c50864.jpg",
+            "bottom_description_text": "۵ ساعت پیش در دریا",
+            "middle_description_text": "اجاره: ۱۲,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "image_count": 5,
+            "top_description_text": "ودیعه: ۱۰۰,۰۰۰,۰۰۰ تومان",
+            "image_top_left_tag": {
+                "text": "۵",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+                    "icon_name": "CAMERA",
+                    "icon_color": "WHITE_PRIMARY"
+                },
+                "is_icon_left": true
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZsc8eHu",
+                    "index": 7,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T14:01:51.527253Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "۱۲۰ متر صادقیه خونه دارم نیازمند همخونه یا همخانه",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZoUgtc0",
+                    "web_info": {
+                        "title": "۱۲۰ متر صادقیه خونه دارم نیازمند همخونه یا همخانه",
+                        "district_persian": "کوی فردوس",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/neda/thumbnail/pyt8rYcWJwIz3towg5UdOA/ed94c70c-52ef-487e-b9eb-1705217134bb.jpg",
+            "bottom_description_text": "در کوی فردوس",
+            "red_text": "نردبان شده",
+            "middle_description_text": "اجاره: ۱,۵۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "image_count": 6,
+            "top_description_text": "ودیعه: ۱۰,۰۰۰,۰۰۰ تومان",
+            "image_top_left_tag": {
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/videocam.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/videocam.png",
+                    "icon_name": "VIDEOCAM",
+                    "icon_color": "WHITE_PRIMARY"
+                }
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZoUgtc0",
+                    "index": 8,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T13:53:04.318806Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "۵۰متر/ ۱خواب/ط همکف/جنت آباد لاله",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZoYZikI",
+                    "web_info": {
+                        "title": "۵۰متر/ ۱خواب/ط همکف/جنت آباد لاله",
+                        "district_persian": "جنت‌آباد جنوبی",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/neda/thumbnail/NUM-DQozBqYt1Yk9Jjc8IA/28922123-07b2-4e24-8c12-f93601dd4d8d.jpg",
+            "bottom_description_text": "مشاور مسکن لاله نو در جنت‌آباد جنوبی",
+            "red_text": "نردبان شده",
+            "middle_description_text": "اجاره: ۱۲,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "image_count": 10,
+            "top_description_text": "ودیعه: ۲۰۰,۰۰۰,۰۰۰ تومان",
+            "image_top_left_tag": {
+                "text": "۱۰",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+                    "icon_name": "CAMERA",
+                    "icon_color": "WHITE_PRIMARY"
+                },
+                "is_icon_left": true
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZoYZikI",
+                    "index": 9,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T12:59:27.403438Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "هم خانه",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZscLRNh",
+                    "web_info": {
+                        "title": "هم خانه",
+                        "district_persian": "جنت‌آباد مرکزی",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۶ ساعت پیش در جنت‌آباد مرکزی",
+            "middle_description_text": "اجاره: ۸,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۵۰,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZscLRNh",
+                    "index": 10,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T12:50:43.864016Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "میرداماد آپارتمان 120متر 2خواب",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZrU3-A0",
+                    "web_info": {
+                        "title": "میرداماد آپارتمان 120متر 2خواب",
+                        "district_persian": "میرداماد",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/neda/thumbnail/sMI0BTWbF4TibN2DjCgJYA/79c89b16-c942-419c-9bc2-b1b0af25b0b5.jpg",
+            "bottom_description_text": "آژانس ملکپرداز    *کانون اطلاعات ملکی* در میرداماد",
+            "middle_description_text": "اجاره: ۱,۱۱۱,۱۱۱ تومان",
+            "has_divider": true,
+            "image_count": 7,
+            "top_description_text": "ودیعه: ۱,۱۱۱,۱۱۱ تومان",
+            "image_top_left_tag": {
+                "text": "۷",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+                    "icon_name": "CAMERA",
+                    "icon_color": "WHITE_PRIMARY"
+                },
+                "is_icon_left": true
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZrU3-A0",
+                    "index": 11,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T10:05:53.774573Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "خانم هستم خونه دارم همخونه خانم میخوام",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZssI1Im",
+                    "web_info": {
+                        "title": "خانم هستم خونه دارم همخونه خانم میخوام",
+                        "district_persian": "یوسف‌آباد",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۹ ساعت پیش در یوسف‌آباد",
+            "middle_description_text": "اجاره: ۱۲,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۱۰۰,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZssI1Im",
+                    "index": 12,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T09:45:15.636505Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "همخانه با اخلاق و موجه",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZsEIIaF",
+                    "web_info": {
+                        "title": "همخانه با اخلاق و موجه",
+                        "district_persian": "جنت‌آباد مرکزی",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۱۰ ساعت پیش در جنت‌آباد مرکزی",
+            "middle_description_text": "اجاره: ۱,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۵۰,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZsEIIaF",
+                    "index": 13,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T08:59:31.589265Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "همخونه میخواهم.خانه ندارم",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZs8HzGk",
+                    "web_info": {
+                        "title": "همخونه میخواهم.خانه ندارم",
+                        "district_persian": "جنت‌آباد شمالی",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۱۰ ساعت پیش در جنت‌آباد شمالی",
+            "middle_description_text": "اجاره: ۶,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۵۰,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZs8HzGk",
+                    "index": 14,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T08:53:15.176465Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "آپارتمان دو خواب اشتراکی",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZsUnUYS",
+                    "web_info": {
+                        "title": "آپارتمان دو خواب اشتراکی",
+                        "district_persian": "جنت‌آباد جنوبی",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۱۱ ساعت پیش در جنت‌آباد جنوبی",
+            "middle_description_text": "اجاره: ۶,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۷۵,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZsUnUYS",
+                    "index": 15,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T08:10:11.550132Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "برج باغ مجلل ۱۱۰،۱۲۵،۱۷۰،۲۴۰متر از یک تا چهار خواب",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "gZzwzLoy",
+                    "web_info": {
+                        "title": "برج باغ مجلل ۱۱۰،۱۲۵،۱۷۰،۲۴۰متر از یک تا چهار خواب",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/neda/thumbnail/mCDd_3uXMnDdhZPDvJ4SWg/8c43a1de-b05d-435d-a08b-4744115bdc70.jpg",
+            "bottom_description_text": "آژانس مشاورین املاک بردیا شعبه ۲ در پونک",
+            "red_text": "نردبان شده",
+            "middle_description_text": "اجاره: ۱۱۱,۱۱۱ تومان",
+            "has_divider": true,
+            "image_count": 16,
+            "top_description_text": "ودیعه: ۱,۱۱۱,۱۱۱ تومان",
+            "image_top_left_tag": {
+                "text": "۱۶",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+                    "icon_name": "CAMERA",
+                    "icon_color": "WHITE_PRIMARY"
+                },
+                "is_icon_left": true
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "gZzwzLoy",
+                    "index": 16,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T07:26:53.347736Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "۵۰ متری یک خواب/جنت آباد شمالی/تخلیه",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZsgW4t6",
+                    "web_info": {
+                        "title": "۵۰ متری یک خواب/جنت آباد شمالی/تخلیه",
+                        "district_persian": "جنت‌آباد شمالی",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/neda/thumbnail/E9RPDqAVQcdMUWmxjhivNA/305e7a38-3c53-456d-8d0a-cc7aad930ee0.jpg",
+            "bottom_description_text": "آژانس کوروش در جنت‌آباد شمالی",
+            "middle_description_text": "اجاره: ۱۰,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "image_count": 4,
+            "top_description_text": "ودیعه: ۲۰۰,۰۰۰,۰۰۰ تومان",
+            "image_top_left_tag": {
+                "text": "۴",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+                    "icon_name": "CAMERA",
+                    "icon_color": "WHITE_PRIMARY"
+                },
+                "is_icon_left": true
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZsgW4t6",
+                    "index": 17,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T07:15:19.068671Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "۱۱۱۱۱",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZsoFFL_",
+                    "web_info": {
+                        "title": "۱۱۱۱۱",
+                        "district_persian": "سازمان برنامه",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۱۳ ساعت پیش در سازمان برنامه",
+            "middle_description_text": "اجاره: ۳,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۲۰,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZsoFFL_",
+                    "index": 18,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T06:11:38.056421Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "آپارتمان۹۶متر ،کلا ساختمان چهار واحد",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZsgEZOg",
+                    "web_info": {
+                        "title": "آپارتمان۹۶متر ،کلا ساختمان چهار واحد",
+                        "district_persian": "یوسف‌آباد",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/neda/thumbnail/BK06uHi3pRtf2bMIAnDa0g/4dba1a05-0077-4071-842b-e9f3fd120270.jpg",
+            "bottom_description_text": "۱۴ ساعت پیش در یوسف‌آباد",
+            "middle_description_text": "اجاره: ۱۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "image_count": 3,
+            "top_description_text": "ودیعه: ۱,۵۰۰,۰۰۰ تومان",
+            "image_top_left_tag": {
+                "text": "۳",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+                    "icon_name": "CAMERA",
+                    "icon_color": "WHITE_PRIMARY"
+                },
+                "is_icon_left": true
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZsgEZOg",
+                    "index": 19,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-07T04:56:24.030536Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "هم خونه میخام بدانه حاشیه",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZsAACNH",
+                    "web_info": {
+                        "title": "هم خونه میخام بدانه حاشیه",
+                        "district_persian": "شهرک نفت (منطقه ۵)",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۱۹ ساعت پیش در شهرک نفت (منطقه ۵)",
+            "middle_description_text": "اجاره: ۱۱۱,۱۱۱ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۱,۱۱۱,۱۱۱ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZsAACNH",
+                    "index": 20,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-06T23:48:19.822222Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "همخونه",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZmgXPoM",
+                    "web_info": {
+                        "title": "همخونه",
+                        "district_persian": "فرمانیه",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "image_url": "https://s100.divarcdn.com/static/photo/neda/thumbnail/3rcOQf_-OiE_99-czHQt0Q/e044277b-6ebc-409c-82e0-4c75a6f7a417.jpg",
+            "bottom_description_text": "در فرمانیه",
+            "red_text": "نردبان شده",
+            "middle_description_text": "اجاره: ۳,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "image_count": 4,
+            "top_description_text": "ودیعه: ۲۰,۰۰۰,۰۰۰ تومان",
+            "image_top_left_tag": {
+                "text": "۴",
+                "icon": {
+                    "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+                    "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+                    "icon_name": "CAMERA",
+                    "icon_color": "WHITE_PRIMARY"
+                },
+                "is_icon_left": true
+            }
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZmgXPoM",
+                    "index": 21,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-06T22:14:16.326939Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "نیاز به خونه دارم برای ۳ ماه . خارج از کشورم",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZrodibd",
+                    "web_info": {
+                        "title": "نیاز به خونه دارم برای ۳ ماه . خارج از کشورم",
+                        "district_persian": "صادقیه",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۲۲ ساعت پیش در صادقیه",
+            "middle_description_text": "اجاره: ۱,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۵۰,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZrodibd",
+                    "index": 22,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-06T21:09:01.922253Z"
+                }
+            },
+            "enabled": true
+        }
+    },
+    {
+        "widget_type": "POST_ROW",
+        "data": {
+            "@type": "type.googleapis.com/widgets.PostRowData",
+            "title": "اپارتمان ۸۲متری ۲خواب",
+            "action": {
+                "type": "VIEW_POST",
+                "payload": {
+                    "@type": "type.googleapis.com/widgets.ViewPostPayload",
+                    "token": "wZrUdBhx",
+                    "web_info": {
+                        "title": "اپارتمان ۸۲متری ۲خواب",
+                        "district_persian": "پونک",
+                        "city_persian": "تهران"
+                    }
+                }
+            },
+            "bottom_description_text": "۲۲ ساعت پیش در پونک",
+            "middle_description_text": "اجاره: ۹,۰۰۰,۰۰۰ تومان",
+            "has_divider": true,
+            "top_description_text": "ودیعه: ۱۰۰,۰۰۰,۰۰۰ تومان"
+        },
+        "action_log": {
+            "server_side_info": {
+                "item_type": {
+                    "type": "POST_ITEM"
+                },
+                "info": {
+                    "@type": "type.googleapis.com/action_log.PostItemInfo",
+                    "post_token": "wZrUdBhx",
+                    "index": 23,
+                    "post_type": "SEARCH",
+                    "list_type": "PAGE",
+                    "source_page": "POST_LIST_PAGE",
+                    "extra_data": {
+                        "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+                        "jli": {
+                            "category": {
+                                "value": "apartment-rent"
+                            },
+                            "cities": [
+                                "1"
+                            ],
+                            "credit": {
+                                "max": 200000000
+                            },
+                            "districts": {
+                                "vacancies": [
+                                    "925",
+                                    "173",
+                                    "167",
+                                    "143",
+                                    "930",
+                                    "920",
+                                    "82",
+                                    "61",
+                                    "86",
+                                    "148",
+                                    "145",
+                                    "146",
+                                    "306",
+                                    "931",
+                                    "929",
+                                    "1031",
+                                    "157",
+                                    "158",
+                                    "75",
+                                    "147",
+                                    "151",
+                                    "152",
+                                    "155",
+                                    "159",
+                                    "78",
+                                    "49",
+                                    "921",
+                                    "172",
+                                    "64",
+                                    "65",
+                                    "168",
+                                    "923",
+                                    "170",
+                                    "139",
+                                    "74",
+                                    "315",
+                                    "90"
+                                ]
+                            },
+                            "rent": {
+                                "max": 12000000
+                            },
+                            "sort": {
+                                "value": "sort_date"
+                            }
+                        },
+                        "search_uid": "4143e921-19df-4700-9d2b-53a6ece06c49",
+                        "search_data": {
+                            "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"200000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"925\",\"173\",\"167\",\"143\",\"930\",\"920\",\"82\",\"61\",\"86\",\"148\",\"145\",\"146\",\"306\",\"931\",\"929\",\"1031\",\"157\",\"158\",\"75\",\"147\",\"151\",\"152\",\"155\",\"159\",\"78\",\"49\",\"921\",\"172\",\"64\",\"65\",\"168\",\"923\",\"170\",\"139\",\"74\",\"315\",\"90\"]}},\"rent\":{\"number_range\":{\"maximum\":\"12000000\"}}}}",
+                            "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+                            "cities": [
+                                "1"
+                            ]
+                        }
+                    },
+                    "widget_type": "POST_ROW",
+                    "sort_date": "2024-11-06T20:47:04.524230Z"
+                }
+            },
+            "enabled": true
+        }
+    }
+]

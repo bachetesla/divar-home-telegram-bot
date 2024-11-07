@@ -1,0 +1,8 @@
+services:
+  divar_bot:
+    build: .
+    container_name: divar_bot
+    restart: unless-stopped
+    volumes:
+      - ./config.ini:/app/config.ini
+      - ./old_data.json:/app/old_data.json
