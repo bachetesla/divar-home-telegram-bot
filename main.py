@@ -47,7 +47,9 @@ logger.addHandler(file_handler)
 bot = Bot(token=TELEGRAM_TOKEN)
 
 
-def fetch_divar_data(last_post_date=None, page=1):
+import uuid  # Import at the top of your script
+
+def fetch_divar_data(last_post_date=None, page=1, search_uid=None):
     url = 'https://api.divar.ir/v8/postlist/w/search'
 
     headers = {
@@ -62,28 +64,39 @@ def fetch_divar_data(last_post_date=None, page=1):
 
     payload = {
         "city_ids": ["1"],
-        "source_view": "FILTER",
+        "pagination_data": {
+            "@type": "type.googleapis.com/post_list.PaginationData",
+            "page": page,
+            "layer_page": page,
+            "search_uid": search_uid
+        },
         "search_data": {
             "form_data": {
                 "data": {
-                    "rent": {
-                        "number_range": {
-                            "maximum": 12000000
+                    "category": {
+                        "str": {
+                            "value": "apartment-rent"
                         }
                     },
                     "credit": {
                         "number_range": {
-                            "maximum": 200000000
+                            "maximum": "200000000"
                         }
                     },
                     "districts": {
                         "repeated_string": {
-                            "value": ["925","173","167","143","930","920","82","61","86","148","145","146","306","931","929","1031","157","158","75","147","151","152","155","159","78","49","921","172","64","65","168","923","170","139","74","315","90"]
+                            "value": [
+                                "925", "173", "167", "143", "930", "920", "82", "61",
+                                "86", "148", "145", "146", "306", "931", "929", "1031",
+                                "157", "158", "75", "147", "151", "152", "155", "159",
+                                "78", "49", "921", "172", "64", "65", "168", "923",
+                                "170", "139", "74", "315", "90"
+                            ]
                         }
                     },
-                    "category": {
-                        "str": {
-                            "value": "apartment-rent"
+                    "rent": {
+                        "number_range": {
+                            "maximum": "12000000"
                         }
                     }
                 }
@@ -207,9 +220,10 @@ def fetch_all_pages():
     page = 1
     last_post_date = None
     all_entries = []
+    search_uid = str(uuid.uuid4())  # Generate a unique search UID
     while True:
         logger.debug(f"Fetching page {page}")
-        data = fetch_divar_data(last_post_date=last_post_date, page=page)
+        data = fetch_divar_data(last_post_date=last_post_date, page=page, search_uid=search_uid)
         if data is None:
             break
 
@@ -220,8 +234,7 @@ def fetch_all_pages():
             break
 
         all_entries.extend(entries)
-        last_post_date = entries[-1]['data'].get('action_log', {}).get('server_side_info', {}).get('info', {}).get(
-            'sort_date')
+        last_post_date = data.get('pagination_data', {}).get('last_post_date')
         if not last_post_date:
             logger.debug("Last post date not found. Stopping pagination.")
             break
@@ -230,7 +243,6 @@ def fetch_all_pages():
     logger.info(f"Fetched total of {len(all_entries)} entries.")
 
     return all_entries
-
 
 async def main():
     logger.info("Starting DivarBot...")
