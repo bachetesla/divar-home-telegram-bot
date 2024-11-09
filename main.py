@@ -234,7 +234,7 @@ def fetch_all_pages():
             break
 
         all_entries.extend(entries)
-        last_post_date = data.get('pagination_data', {}).get('last_post_date')
+        last_post_date = data.get('pagination', {}).get('data', {}).get('last_post_date')
         if not last_post_date:
             logger.debug("Last post date not found. Stopping pagination.")
             break
