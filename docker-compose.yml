@@ -6,3 +6,4 @@ services:
     volumes:
       - ./config.ini:/app/config.ini
       - ./old_data.json:/app/old_data.json
+      - ./:/app
